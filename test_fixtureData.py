@@ -8,6 +8,6 @@ class TestExample2():
         print(dataLoad[1])
 # @pytest.mark.usefixtures("dataLoad")
 # class EditProfile(BaseClass):
-#     def test_editprofile(self, dataLoad):
+#   le  def test_editprofile(self, dataLoad):
 #         log = self.getlogger()
 #         log.info(dataLoad[0])
